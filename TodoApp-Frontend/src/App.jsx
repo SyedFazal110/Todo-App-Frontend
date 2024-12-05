@@ -5,7 +5,7 @@ import Form from "react-bootstrap/Form";
 import InputGroup from "react-bootstrap/InputGroup";
 import Button from "react-bootstrap/Button";
 import Edit from "./Edit";
-import DeleteTodo from "./DeleteTodo";
+import DeleteTodo from "./Delete.Todo";
 import { Puff, ColorRing } from "react-loader-spinner";
 import Swal from "sweetalert2";
 import { useDispatch, useSelector } from "react-redux";
